@@ -1,14 +1,14 @@
-# Alfred HTML5 Boilerplate extension
-Alfred Extension for generating a new [HTML5 Boilerplate](http://html5boilerplate.com/) template project
+# Alfred Backbone Boilerplate extension
+Alfred Extension for generating a new [HTML5 Boilerplate](http://html5boilerplate.com/) template project with Backbone
 
 ## Install
 * Launch Alfred
 * Type "Alfred"
-![Install](https://raw.github.com/kristoferjoseph/Alfred_HTML5_Boilerplate_Extension/master/img/Alfred_launch_preferences.png)
+![Install](https://raw.github.com/kristoferjoseph/lfred-Backobone-Boilerplate-Extension/master/img/Alfred_launch_preferences.png)
 * Hit enter to launch Alfred preferences pane
 * Click on the extensions button
-* Drag the HTML5 Boilerplate.alfredextension and drop it on the drop target
-![Install](https://raw.github.com/kristoferjoseph/Alfred_HTML5_Boilerplate_Extension/master/img/Alfred_install_extension.png)
+* Drag the Backbone Boilerplate.alfredextension and drop it on the drop target
+![Install](https://raw.github.com/kristoferjoseph/lfred-Backobone-Boilerplate-Extension/master/img/Alfred_install_extension.png)
 
 ## Usage
 * Launch Alfred
@@ -21,7 +21,7 @@ It will open your new project in Sublime Text 2 if you have it installed.
 > __*The first time you run this extension it could take a little longer than expected since it will attempt to clone the html5 boilerplate project to a Templates directory in your Documents. Subsequent runs of this extention will be almost instantaneous__
 
 ## Example:
-![Usage](https://raw.github.com/kristoferjoseph/Alfred_HTML5_Boilerplate_Extension/master/img/html5_boilerplate_usage.png)
+![Usage](https://raw.github.com/kristoferjoseph/Alfred-Backobone-Boilerplate-Extension/master/img/backbone_boilerplate_usage.png)
 
 ## Requirements
 * [Alfred](http://www.alfredapp.com/) *obviously
