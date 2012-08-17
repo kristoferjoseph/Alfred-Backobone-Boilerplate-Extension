@@ -4,11 +4,11 @@ Alfred Extension for generating a new [HTML5 Boilerplate](http://html5boilerplat
 ## Install
 * Launch Alfred
 * Type "Alfred"
-![Install](https://raw.github.com/kristoferjoseph/lfred-Backobone-Boilerplate-Extension/master/img/Alfred_launch_preferences.png)
+![Install](https://raw.github.com/kristoferjoseph/Alfred-Backobone-Boilerplate-Extension/master/img/Alfred_launch_preferences.png)
 * Hit enter to launch Alfred preferences pane
 * Click on the extensions button
 * Drag the Backbone Boilerplate.alfredextension and drop it on the drop target
-![Install](https://raw.github.com/kristoferjoseph/lfred-Backobone-Boilerplate-Extension/master/img/Alfred_install_extension.png)
+![Install](https://raw.github.com/kristoferjoseph/Alfred-Backobone-Boilerplate-Extension/master/img/Alfred_install_extension.png)
 
 ## Usage
 * Launch Alfred
